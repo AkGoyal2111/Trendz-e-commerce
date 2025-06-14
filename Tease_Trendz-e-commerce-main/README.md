@@ -49,6 +49,6 @@
   </ol>
 <h1>Project Collaborators:</h1>
   <ul>
-    <li> <a href="https://github.com/kingm0">Mukul Singhal</a></li>
-    <li ><a href="https://github.com/ria190">Ria Chugh</a></li>
+    <li> Ayush Goyal </li>
+
   </ul>
